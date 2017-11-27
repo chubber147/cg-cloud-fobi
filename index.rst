@@ -16,6 +16,9 @@ Contents:
    Dateien hochladen
    Dateien erstellen
    Dateien teilen
+   gelöschte Dateien
+   Kreise
+   Synchronisieren mit dem eigenen Rechner zu Hause
 
 
 
