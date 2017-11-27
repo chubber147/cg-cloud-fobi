@@ -1,0 +1,18 @@
+\select@language {ngerman}
+\contentsline {chapter}{\numberline {1}Zugriff auf die Cloud}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Die Startseite}{3}{section.1.1}
+\contentsline {chapter}{\numberline {2}Kalender}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Eine Klassenarbeit oder eine Exkursion eintragen}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Aufgaben}{8}{section.2.2}
+\contentsline {chapter}{\numberline {3}Dateien}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Dateien hoch- und herunterladen.}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Mehrere Dateien und Ordner ausw\IeC {\"a}hlen}{12}{section.3.2}
+\contentsline {section}{\numberline {3.3}Aufgaben:}{13}{section.3.3}
+\contentsline {chapter}{\numberline {4}Dateien erstellen}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Erstellen von Dateien und Ordnern in der Cloud}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Aufgaben:}{15}{section.4.2}
+\contentsline {chapter}{\numberline {5}Dateien teilen}{17}{chapter.5}
+\contentsline {section}{\numberline {5.1}Dateien mit anderen teilen}{17}{section.5.1}
+\contentsline {section}{\numberline {5.2}Die Teilung wieder aufheben}{21}{section.5.2}
+\contentsline {section}{\numberline {5.3}Aufgaben}{23}{section.5.3}
+\contentsline {chapter}{\numberline {6}Indices and tables}{25}{chapter.6}
